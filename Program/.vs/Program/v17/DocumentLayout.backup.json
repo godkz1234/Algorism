@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dddde\\Desktop\\Progaming\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DBE516-FAE0-4CF6-A3FB-9F20EFDB2501}|..\\Class3th (Bubble Sort)\\Class3th (Bubble Sort).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class3th (Bubble Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class3th (Bubble Sort)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class3th (Bubble Sort)\\Source.cpp",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class3th (Bubble Sort)\\Source.cpp",
+              "RelativeToolTip": "..\\Class3th (Bubble Sort)\\Source.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:19:55.085Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T12:03:54.533Z",
               "EditorCaption": ""
