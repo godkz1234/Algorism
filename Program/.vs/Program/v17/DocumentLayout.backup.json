@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63DBE516-FAE0-4CF6-A3FB-9F20EFDB2501}|..\\Class3th (Bubble Sort)\\Class3th (Bubble Sort).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class3th (Bubble Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C41B7972-A461-4561-88C8-E05DBF77E843}|..\\Class1th (Time Complexity \u0026 Space Complexity)\\Class1th (Time Complexity \u0026 Space Complexity).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class1th (Time Complexity \u0026 Space Complexity)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEA1CF21-426A-43C4-9915-C0B3DF0DA9CF}|..\\Class4th (Select sort)\\Class4th (Select sort).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class4th (Select sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00BD6AB9-2F78-42AF-A9D8-15354CE45310}|..\\Class5th (Insert sort)\\Class5th (Insert sort).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class5th (Insert sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class1th (Time Complexity \u0026 Space Complexity)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class1th (Time Complexity \u0026 Space Complexity)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class1th (Time Complexity \u0026 Space Complexity)\\Source.cpp",
-              "RelativeToolTip": "..\\Class1th (Time Complexity \u0026 Space Complexity)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-13T12:23:19.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class5th (Insert sort)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class5th (Insert sort)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class5th (Insert sort)\\Source.cpp",
-              "RelativeToolTip": "..\\Class5th (Insert sort)\\Source.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-13T12:01:50.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class4th (Select sort)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class4th (Select sort)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class4th (Select sort)\\Source.cpp",
-              "RelativeToolTip": "..\\Class4th (Select sort)\\Source.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-13T11:10:41.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class3th (Bubble Sort)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class3th (Bubble Sort)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class3th (Bubble Sort)\\Source.cpp",
-              "RelativeToolTip": "..\\Class3th (Bubble Sort)\\Source.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-12T12:19:55.085Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -88,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T12:03:54.533Z",
               "EditorCaption": ""
