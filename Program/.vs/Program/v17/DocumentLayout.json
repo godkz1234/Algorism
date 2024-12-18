@@ -5,15 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{353F6F61-7196-4E2F-909F-A93DB6E2E4BC}|..\\Class9th (Count Sort)\\Class9th (Count Sort).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class9th (Count Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FED18D-F87D-46C0-9A1E-25108E0D315B}|..\\Class8th (Binary Search)\\Class8th (Binary Search).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class8th (Binary Search)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{442E4C28-3023-4A91-A3EF-AB5CB7335252}|..\\Class7th (Two Pointer)\\Class7th (Two Pointer).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class7th (Two Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,47 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class9th (Count Sort)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class9th (Count Sort)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class9th (Count Sort)\\Source.cpp",
-              "RelativeToolTip": "..\\Class9th (Count Sort)\\Source.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-17T12:37:18.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class8th (Binary Search)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class8th (Binary Search)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class8th (Binary Search)\\Source.cpp",
-              "RelativeToolTip": "..\\Class8th (Binary Search)\\Source.cpp",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-17T12:01:02.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class7th (Two Pointer)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class7th (Two Pointer)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class7th (Two Pointer)\\Source.cpp",
-              "RelativeToolTip": "..\\Class7th (Two Pointer)\\Source.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvyQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-17T11:32:06.19Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -72,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T12:03:54.533Z",
               "EditorCaption": ""
