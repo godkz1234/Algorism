@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\dddde\Desktop\Progaming\Algorism\Class12th (Dynamic Progamming)\Source.cpp(60,10): error C2660: 'Memoization': 함수는 1개의 인수를 사용하지 않습니다.
+      C:\Users\dddde\Desktop\Progaming\Algorism\Class12th (Dynamic Progamming)\Source.cpp(21,5):
+      'Memoization' 선언을 참조하십시오.
+      C:\Users\dddde\Desktop\Progaming\Algorism\Class12th (Dynamic Progamming)\Source.cpp(60,10):
+      인수 목록 '(int)'을(를) 일치시키는 동안
+  
+C:\Users\dddde\Desktop\Progaming\Algorism\Class12th (Dynamic Progamming)\Source.cpp(60,7): error C2088: 기본 제공 연산자 '<<'은(는) 'std::ostream' 형식의 피연산자에 적용될 수 없습니다.
