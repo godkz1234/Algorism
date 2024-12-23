@@ -4,8 +4,6 @@
 
 using namespace std;
 
-
-
 int Fibonacci(int n)
 {
 	if (n <= 1)
@@ -18,22 +16,22 @@ int Fibonacci(int n)
 	}
 }
 
-int Memoization(int n, int memo [])
+int Memoization(int m, int memo[])
 {
-	if (n <= 0)
+	if (m <= 0)
 	{
 		return 0;
 	}
-	else if (n <= 2)
+	else if (m <= 2)
 	{
 		return 1;
 	}
-	if (memo[n] != 0)
+	if (memo[m] != 0)
 	{
-		return memo[n];
+		return memo[m];
 	}
 
-	return memo[n] = Memoization(n - 1, memo) + Memoization(n - 2, memo);
+	return memo[m] = Memoization(m - 1, memo) + Memoization(m - 2, memo);
 }
 
 int main()
@@ -49,17 +47,17 @@ int main()
 	// 반복 수행하는 작업을 제거하여 프로그램의 실행 속도를 
 	// 향상시키는 기법입니다.
 
-	int memo[SIZE] = { 0 , };
+	int n = 0;
 
-	int x;
+	int memo[SIZE] = { 0, };
 
 	cout << "숫자 입력 : ";
 
-	cin >> x;
+	cin >> n;
 
-	cout << Memoization(x) << " " << endl;
+	cout << Memoization(n, memo) << " " << endl;
 
-	cout << Fibonacci(x) << " ";
+	cout << Fibonacci(n) << " ";
 
 
 
