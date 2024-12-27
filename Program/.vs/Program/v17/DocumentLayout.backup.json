@@ -7,10 +7,7 @@
       "RelativeMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E59F2328-A511-471D-93F3-D937AB2B848E}|..\\Class13th (Merge Sort)\\Class13th (Merge Sort).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class13th (Merge Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCA580EB-AC68-48BB-82E8-C985E13150EE}|..\\Class15th (Greedy)\\Class15th (Greedy).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class15th (Greedy)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1D9B4EBB-CD5B-49B7-BBD3-B33721D46138}|..\\Class16th (Depth First Search)\\Class16th (Depth First Search).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class16th (Depth First Search)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,32 +17,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class15th (Greedy)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class15th (Greedy)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class15th (Greedy)\\Source.cpp",
-              "RelativeToolTip": "..\\Class15th (Greedy)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-26T12:08:56.575Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class13th (Merge Sort)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class13th (Merge Sort)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class13th (Merge Sort)\\Source.cpp",
-              "RelativeToolTip": "..\\Class13th (Merge Sort)\\Source.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class16th (Depth First Search)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class16th (Depth First Search)\\Source.cpp",
+              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class16th (Depth First Search)\\Source.cpp",
+              "RelativeToolTip": "..\\Class16th (Depth First Search)\\Source.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-26T11:24:37.494Z",
+              "WhenOpened": "2024-12-27T12:08:52.767Z",
               "EditorCaption": ""
             },
             {
@@ -56,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T12:03:54.533Z",
               "EditorCaption": ""
