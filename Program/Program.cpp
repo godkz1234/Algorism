@@ -1,76 +1,144 @@
 ﻿#include <iostream>
-#include<queue>
 #include <vector>
-
-using namespace std;
+#include <algorithm>
 
 #define SIZE 8
+
+using namespace std;
 
 class Graph
 {
 private:
-    queue<int> queue;
-    bool visited[SIZE];
-    vector<int> graph[SIZE];
+    class Edge
+    {
+    private:
+        int x;
+        int y;
+        int distance;
+
+    public:
+        Edge(int x, int y, int distance)
+        {
+            this->x = x;
+            this->y = y;
+            this->distance = distance;
+        }
+
+        const int & X()
+        {
+            return x;
+        }
+        const int & Y()
+        {
+            return y;
+        }
+        const int& Distance()
+        {
+            return distance;
+        }
+
+        const bool & operator < (const Edge& edge)
+        {
+            return distance < edge.distance;
+        }
+
+       
+    };
+    vector<Edge> graph;
+
+    int cost;
+    int parent[SIZE];
+
 public:
     Graph()
     {
+        cost = 0;
+
         for (int i = 0; i < SIZE; i++)
         {
-            visited[i] = false;
+            parent[i] = i;
         }
     }
 
-    void Insert(int vertex, int edge)
+    void Insert(int x, int y, int distance)
     {
-        graph[vertex].push_back(edge);
-        graph[edge].push_back(vertex);
+        graph.push_back(Edge(x, y, distance));
     }
 
-    void Search(int start)
+    void kruskal()
     {
-        queue.push(start);
-        visited[start] = true;
+        sort(graph.begin(), graph.end());
 
-        while (!queue.empty()) {
-            int start = queue.front();
-            queue.pop();
-            cout << start << ' ';
-            for (int i = 0; i < graph[start].size(); i++) {
-                int next = graph[start][i];
-                if (!visited[next]) {
-                    queue.push(next);
-                    visited[next] = true;
-                }
-            }
+
+    }
+
+    int Find(int x)
+    {
+        if (x == parent[x])
+        {
+            return x;
         }
+        else
+        {
+            return parent[x] = Find(parent[x]);
+        }
+    }
 
+    void Union(int x, int y)
+    {
+        x = Find(x);
+        y = Find(y);
+
+        if (x < y)
+        {
+            parent[y] = x;
+        }
+        else
+        {
+            parent[x] = y;
+        }
+    }
+
+    bool Same(int x, int y)
+    {
+        return Find(x) == Find(y);
     }
 };
 
 int main()
 {
-#pragma region 너버 우선 탐색
-    // 시작 정점을 방문한 후 시작 정점에 인접한
-    // 모든 정점들을 우선 방문하는 방법입니다.
+#pragma region 신장 트리
+    // 그래프의 모든 정점을 포함하면서 사이클이 존재하지 않는 
+    // 부분 그래프로, 그래프의 모든 정점을 최소 비용으로 연결하는 트리입니다.
+    
+    // 그래프의 정점의 수가 n개일 때, 간선의 수는 n-1개 입니다.
 
-    // 더 이상 방문하지 않은 정점이 없을 때까지 
-    // 방문하지 않은 모든 정점들에 대해서도 너비 우선 탐색을 적용합니다.
-#pragma endregion
+    // 최소 비용 신장 트리
+    // 그래프의 간선들의 가중치 합이 최소인 신장 트리
 
     Graph graph;
 
-    graph.Insert(1,2);
-    graph.Insert(1,3);
+    graph.Insert(1,7, 12);
+    graph.Insert(4,7, 13);
+
+    graph.Insert(1,4, 28);
+    graph.Insert(2,4, 24);
+
+    graph.Insert(1,2, 67);
+    graph.Insert(1,5, 17);
+
+    graph.Insert(5,1, 73);
+    graph.Insert(2,5, 64);
     
-    graph.Insert(2,4);
-    graph.Insert(2,5);
-    
-    graph.Insert(3,6);
-    graph.Insert(3,7);
+    graph.Insert(5,3, 20);
+    graph.Insert(5,6, 40);
+    graph.Insert(3,6, 35);
+
+    graph.kruskal();
 
 
-    graph.Search(1);
+#pragma endregion
+
 
 
     return 0;
