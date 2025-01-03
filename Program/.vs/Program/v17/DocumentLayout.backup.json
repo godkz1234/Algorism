@@ -5,15 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FADBE8F1-3C31-43C8-B1D6-7356BF9198B0}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75B2A8E3-2873-42E9-A0A5-2F9BE6BD9881}|..\\Class17th (Breadth First Search)\\Class17th (Breadth First Search).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class17th (Breadth First Search)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E3F773A-72C5-4E18-81ED-35288EAADADC}|..\\Class18th (Union Find)\\Class18th (Union Find).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class18th (Union Find)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7320F837-5DD0-4703-BAC9-84345430467C}|..\\Class19th (Topology Sort)\\Class19th (Topology Sort).vcxproj|C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class19th (Topology Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,47 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class17th (Breadth First Search)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class17th (Breadth First Search)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class17th (Breadth First Search)\\Source.cpp",
-              "RelativeToolTip": "..\\Class17th (Breadth First Search)\\Source.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-02T12:36:23.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class18th (Union Find)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class18th (Union Find)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class18th (Union Find)\\Source.cpp",
-              "RelativeToolTip": "..\\Class18th (Union Find)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-02T12:36:12.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class19th (Topology Sort)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class19th (Topology Sort)\\Source.cpp",
-              "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Class19th (Topology Sort)\\Source.cpp",
-              "RelativeToolTip": "..\\Class19th (Topology Sort)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-02T12:35:37.946Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -72,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\dddde\\Desktop\\Progaming\\Algorism\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T12:03:54.533Z",
               "EditorCaption": ""
