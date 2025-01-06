@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class19th (Topology Sort)",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class20th (Mininum Spanning Tree)", "..\Class20th (Mininum Spanning Tree)\Class20th (Mininum Spanning Tree).vcxproj", "{5E5398A5-251C-41D9-94D4-28FCB46DA748}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class21th (Dijkstra)", "..\Class21th (Dijkstra)\Class21th (Dijkstra).vcxproj", "{5EADC43A-123C-4E99-8393-04E486CD4F87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{5E5398A5-251C-41D9-94D4-28FCB46DA748}.Release|x64.Build.0 = Release|x64
 		{5E5398A5-251C-41D9-94D4-28FCB46DA748}.Release|x86.ActiveCfg = Release|Win32
 		{5E5398A5-251C-41D9-94D4-28FCB46DA748}.Release|x86.Build.0 = Release|Win32
+		{5EADC43A-123C-4E99-8393-04E486CD4F87}.Debug|x64.ActiveCfg = Debug|x64
+		{5EADC43A-123C-4E99-8393-04E486CD4F87}.Debug|x64.Build.0 = Debug|x64
+		{5EADC43A-123C-4E99-8393-04E486CD4F87}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EADC43A-123C-4E99-8393-04E486CD4F87}.Debug|x86.Build.0 = Debug|Win32
+		{5EADC43A-123C-4E99-8393-04E486CD4F87}.Release|x64.ActiveCfg = Release|x64
+		{5EADC43A-123C-4E99-8393-04E486CD4F87}.Release|x64.Build.0 = Release|x64
+		{5EADC43A-123C-4E99-8393-04E486CD4F87}.Release|x86.ActiveCfg = Release|Win32
+		{5EADC43A-123C-4E99-8393-04E486CD4F87}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
